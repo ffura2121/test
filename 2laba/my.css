@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+header {
+    height: 30vh;
+    background-color: darkgoldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+main {
+    height: 30vh;
+    background-color: rgb(81, 100, 212);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer {
+    height: 30vh;
+    background-color: rgb(226, 3, 215);
+    display: flex;
+    align-items: center;
+    justify-content: end ;
+}
+.text{
+ font-size: 70px;  
+ color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
