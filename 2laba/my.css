@@ -10,7 +10,7 @@ body {
 
 header {
     height: 30vh;
-    background-color: darkgoldenrod;
+    background-color: darkgoldenrod;overflow-x: ;
     display: flex;
     align-items: center;
     justify-content: flex-start;
